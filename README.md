@@ -1,4 +1,4 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+<img src="devop_pic.png" alt="GitHub Banner" width="90%" />
 
 # 💫 About Me:
 Experienced DevOps Engineer with strong skills in AWS, GitLab, Jenkins, Docker, and Kubernetes. Proficient in automation using Python and Shell scripting, and managing infrastructure with Terraform. Experienced in setting up CI/CD pipelines, container orchestration, and system monitoring with Prometheus and Grafana. Focused on building reliable, scalable, and efficient systems.
